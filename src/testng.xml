@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "YahooApp Test Automation Suite">
+<test name="Yahoo App Test">
+	
+     <parameter name="browser" value="chrome"/>
+
+     <parameter name="url" value="https://login.yahoo.com/" />  <!-- Environment variables are like URL, user id, password, QA/dev, etc-->
+     <parameter name="emailId" value="test@yahoo.com" />
+     <parameter name="environment" value="QA"/>
+
+ <classes> 
+ <class name= "com.parameters.testng.ParameterTest"/>
+ 
+ </classes>
+ 
+</test>
+
+</suite>

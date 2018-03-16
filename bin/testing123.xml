@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "SuiteName">
+<test name="TestName">
+
+ <classes> 
+ <class name= "testNgPractice.GoogleTest"/>
+ <class name= "testNgPractice.GoogleTitleTest"/>
+ <class name= "testNgPractice.InvocationCountTest"/>
+ <class name= "testNgPractice.TestNgDependency"/>
+ <class name= "testNgPractice.TestNgGroup"/>
+ <class name= "testNgPractice.TestNgFeatures"/>
+ <class name= "testNgPractice.TestNgBasics"/> 
+
+ </classes>
+ 
+</test>
+
+</suite>

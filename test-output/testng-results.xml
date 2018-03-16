@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62" started-at="2018-03-02T17:13:02Z" finished-at="2018-03-02T17:13:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62" started-at="2018-03-02T17:13:02Z" finished-at="2018-03-02T17:13:02Z">
+      <class name="testNgPractice.TestNgBasics">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="setUp" is-config="true" duration-ms="22" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="Login" is-config="true" duration-ms="1" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="enterURL" is-config="true" duration-ms="1" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="googleLogoTest" duration-ms="10" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="logOut" is-config="true" duration-ms="2" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="enterURL" is-config="true" duration-ms="1" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="googleTitleTest" duration-ms="5" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="logOut" is-config="true" duration-ms="2" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="searchTest" duration-ms="2" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="logOut" is-config="true" duration-ms="0" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:testNgPractice.TestNgBasics@685cb137]" name="deleteAllCookies" is-config="true" duration-ms="2" started-at="2018-03-02T22:43:02Z" finished-at="2018-03-02T22:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+      </class> <!-- testNgPractice.TestNgBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

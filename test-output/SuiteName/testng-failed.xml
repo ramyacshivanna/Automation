@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteName]">
+  <test name="TestName(failed)">
+    <classes>
+      <class name="testNgPractice.GoogleTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testNgPractice.GoogleTest -->
+      <class name="testNgPractice.TestNgBasics">
+        <methods>
+          <include name="logOut"/>
+          <include name="deleteAllCookies"/>
+          <include name="Login"/>
+          <include name="setUp"/>
+          <include name="launchBrowser"/>
+          <include name="enterURL"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testNgPractice.TestNgBasics -->
+      <class name="testNgPractice.GoogleTitleTest">
+        <methods>
+          <include name="googleLogoTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testNgPractice.GoogleTitleTest -->
+    </classes>
+  </test> <!-- TestName(failed) -->
+</suite> <!-- Failed suite [SuiteName] -->

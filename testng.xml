@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNgPractice.GoogleTitleTest"/>
+      <class name="testNgPractice.GoogleTest"/>
+      <class name="testNgPractice.TestNgBasics"/>
+      <class name="testNgPractice.ExceptionTimeOutTest"/>
+      <class name="testNgPractice.InvocationCountTest"/>
+      <class name="testNgPractice.TestNgDependency"/>
+      <class name="testNgPractice.TestNgGroup"/>
+      <class name="testNgPractice.YahooMailTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

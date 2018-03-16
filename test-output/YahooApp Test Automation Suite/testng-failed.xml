@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [YahooApp Test Automation Suite]">
+  <parameter name="environment" value="QA"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="emailId" value="test@yahoo.com"/>
+  <parameter name="url" value="https://login.yahoo.com/"/>
+  <test name="Yahoo App Test(failed)">
+    <parameter name="environment" value="QA"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="emailId" value="test@yahoo.com"/>
+    <parameter name="url" value="https://login.yahoo.com/"/>
+    <classes>
+      <class name="com.parameters.testng.ParameterTest">
+        <methods>
+          <include name="YahooLogin"/>
+        </methods>
+      </class> <!-- com.parameters.testng.ParameterTest -->
+    </classes>
+  </test> <!-- Yahoo App Test(failed) -->
+</suite> <!-- Failed suite [YahooApp Test Automation Suite] -->
