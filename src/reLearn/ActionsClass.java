@@ -41,7 +41,7 @@ public class ActionsClass {
 		 
 		/*
 		 System.out.println("***Click and hold action ****");
-		 action.clickAndHold(drop).moveToElement(drop).release(drop).build().perform();
+		 action.clickAndHold(drag).moveToElement(drop).release(drop).build().perform();
 		 */
 		
 		System.out.println("Double click validation");
